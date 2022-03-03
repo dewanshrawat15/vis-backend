@@ -7,5 +7,3 @@ Enter in Vis. Vis is a smart platform that gives the end-user full access to run
 
 ## Challenges I ran into
 Not a lot, although I got stuck for some time configuring security group another project while checking any update on the intended project. I wasn't able to integrate AWS Glue with AWS Athena to provide better insights on huge databases, although was able to achieve the intended affect using Lambda, and DynamoDB.
-
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/7ff947758ccb4238a6c6b9fd53954d7e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
