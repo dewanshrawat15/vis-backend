@@ -1,6 +1,11 @@
 # vis-backend
-This backend server is running on [http://35.86.252.148:5000/](http://35.86.252.148:5000/)
 
-Sharing the postman collection related to running this backend over [here](https://drive.google.com/file/d/1j7ETmeGUglksAH8LCsYY-wsE0cBJFGmE/view?usp=sharing)
+## The problem Vis solves
+It's tough to actualize how people in the same age group who might be earning the same might not be able to save the same. Or how much in comparison to the mean average, a person might be spending as compared to his peers. All of these are important questions and important insights as these inferences further lead to a person realizing how his/her finance can be better managed.
 
-[Project video](https://www.loom.com/share/7ff947758ccb4238a6c6b9fd53954d7e)
+Enter in Vis. Vis is a smart platform that gives the end-user full access to running filters to get better insights and inferences as to how people spend their money. Charts and graphs are shown to highlight how in comparison to people from different age groups spend their money using what modes of payments. These analytics can help someone to figure out how they should plan out their budget in comparison to others, which in turn would help maximize savings and minimize expenditures.
+
+## Challenges I ran into
+Not a lot, although I got stuck for some time configuring security group another project while checking any update on the intended project. I wasn't able to integrate AWS Glue with AWS Athena to provide better insights on huge databases, although was able to achieve the intended affect using Lambda, and DynamoDB.
+
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/7ff947758ccb4238a6c6b9fd53954d7e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
